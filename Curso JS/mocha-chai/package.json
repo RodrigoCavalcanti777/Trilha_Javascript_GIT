@@ -1,9 +1,8 @@
 {
-  "name": "mocha-chai",
+  "name": "curso-js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "type": "module",
+  "main": "app.js",
   "scripts": {
     "test": "mocha"
   },
